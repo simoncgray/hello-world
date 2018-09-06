@@ -1,2 +1,3 @@
 # hello-world
 Generic Hello World Repository
+This has been created to test the basic functionality of GitHub for a newbie. Not a newbie to coding, but a newbie to this way of coding... 
